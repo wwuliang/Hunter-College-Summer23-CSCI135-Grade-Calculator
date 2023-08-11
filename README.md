@@ -1,8 +1,8 @@
 # Hunter College's CSCI 135 Grade Calculator
 
 Grade Calculator is a simple tool that allows an instructor from Hunter College's CSCI 13500 Summer 2023 course to obtain a student's information and calculate the overall grade they will receive
-in the course. The student's final letter grade is calculated using Hunter College's grading structure (https://hunter.cuny.edu/students/registration/records-and-transcripts/grading-structure/ "Hunter College's grading structure").
-The program will additionally provide the class statistics (class size, mean, median, and standard deviation) for the instructor to see how the student compares to the overall class, as well evaluate the class' overall
+in the course. The student's final letter grade is calculated using Hunter College's grading structure (https://hunter.cuny.edu/students/registration/records-and-transcripts/grading-structure/).
+The program will additionally provide the class statistics (class size, mean, median, and standard deviation) for the instructor to see how the student compares to the overall class, as well as evaluate the class' overall
 performance. 
 
 ## Additional Notes
