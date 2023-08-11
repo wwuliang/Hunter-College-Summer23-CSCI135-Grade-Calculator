@@ -19,7 +19,7 @@ The program will additionally provide the class statistics (class size, mean, me
   - class.hpp
   - class.cpp
   - grades.csv (This CSV file can be replaced with your own CSV file filled with the student's information and grades)
-2. Open a terminal and execute the following command: _g++ main.cpp student.cpp grades.cpp class.cpp && ./a.out_
+2. Open a terminal and execute the following command: `g++ main.cpp student.cpp grades.cpp class.cpp && ./a.out`
 
 ## How to use the program
 1. The program will first prompt you to enter the name of your CSV file containing all your students' grades and information
